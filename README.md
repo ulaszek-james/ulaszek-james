@@ -1,4 +1,4 @@
-<h4 align="center">Welcome!</h4>
+<h2 align="center">Welcome!</h2>
 <img src="https://archives.bulbagarden.net/media/upload/7/74/Pok%C3%A9mon_Grand_Eating_Contest_Snorlax.png">
 
 <!--
